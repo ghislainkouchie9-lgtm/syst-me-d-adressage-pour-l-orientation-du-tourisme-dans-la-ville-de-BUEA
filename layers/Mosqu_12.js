@@ -1,0 +1,1 @@
+var json_Mosqu_12 = {"type":"FeatureCollection","name":"Mosqu_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nom":"Buea central mosqué"},"geometry":{"type":"Point","coordinates":[9.238949584795046,4.162579158950093]}}]}
